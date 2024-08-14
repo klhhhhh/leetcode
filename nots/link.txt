@@ -1,0 +1,269 @@
+多模态:
+https://zhuanlan.zhihu.com/p/699376156
+https://www.zhihu.com/search?type=content&q=clip
+https://zhuanlan.zhihu.com/p/493489688
+https://github.com/openai/CLIP
+https://zhuanlan.zhihu.com/p/593661212
+https://www.bilibili.com/video/BV1xM4m1m7vA/?spm_id_from=333.999.0.0&vd_source=c9745e4447536b28b2b0735071d30bd6
+https://github.com/yunhao-tech/Course_project/blob/master/Advanced%20Machine%20learning/Final%20project_CLIP.ipynb
+https://zhuanlan.zhihu.com/p/588853559
+https://zhuanlan.zhihu.com/p/653902791
+https://zhuanlan.zhihu.com/p/651116964
+https://zhuanlan.zhihu.com/p/676480190
+https://zhuanlan.zhihu.com/p/660476765
+
+cuda-mode:
+https://github.com/cuda-mode/lectures/tree/main/lecture_002
+https://zhuanlan.zhihu.com/p/708682239
+https://zhuanlan.zhihu.com/p/707107808
+https://github.com/cuda-mode
+
+flashattention:
+https://zhuanlan.zhihu.com/p/664061672
+https://zhuanlan.zhihu.com/p/668888063
+https://tridao.me/blog/2024/flash3/
+https://github.com/facebookresearch/xformers
+https://zhuanlan.zhihu.com/p/642962397
+https://zhuanlan.zhihu.com/p/669926191
+
+sequence parallel:
+https://zhuanlan.zhihu.com/p/703669087
+https://zhuanlan.zhihu.com/p/700639611
+
+k8s:
+https://open.atatech.org/articles/11000218484?spm=ata.28742492.0.0.45543459cz1WZN
+https://mp.weixin.qq.com/s/4l0g2VI_18EuOjaYQuHYHw?spm=ata.28742492.0.0.68e33fedZgB6Op
+https://open.atatech.org/articles/11000266664?spm=ata.28742492.0.0.45543459cz1WZN
+
+rdma:
+https://open.atatech.org/articles/11020264428?spm=ata.28742492.0.0.45543459cz1WZN
+
+cuda learning & inference:
+DefTruth/CUDA-Learn-Notes: 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+https://github.com/DefTruth/CUDA-Learn-Notes
+
+[TensorRT-LLM][5w字]🔥TensorRT-LLM 部署调优-指北 - 知乎
+https://zhuanlan.zhihu.com/p/699333691
+
+[Attention优化][万字]🔥TensorRT 9.2 MHA/Myelin Optimize vs FlashAttention-2 profile - 知乎
+https://zhuanlan.zhihu.com/p/678873216
+
+[Attention优化][2w字]🔥原理&图解: 从Online-Softmax到FlashAttention V1/V2/V3 - 知乎
+https://zhuanlan.zhihu.com/p/668888063
+
+CUDA编程入门之Warp-Level Primitives - 知乎
+https://zhuanlan.zhihu.com/p/572820783
+
+CUDA编程入门之Vectorized Memory Access - 知乎
+https://zhuanlan.zhihu.com/p/572817996
+
+CUDA C++ Best Practices Guide
+https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html?highlight=bank%20conflict#shared-memory-and-memory-banks
+
+CUB — cub 2.5 documentation
+https://nvidia.github.io/cccl/cub/
+
+NVIDIA/FasterTransformer: Transformer related optimization, including BERT, GPT
+https://github.com/NVIDIA/FasterTransformer/tree/main
+
+llm.c代码简读（一） - 知乎
+https://zhuanlan.zhihu.com/p/701379487
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+微信公众平台
+https://mp.weixin.qq.com/s/-kVLJnBKEDV-TbCZH1UBTw
+
+Tensor Cores 使用介绍 - 知乎
+https://zhuanlan.zhihu.com/p/671312675
+
+LLM（十七）：从 FlashAttention 到 PagedAttention, 如何进一步优化 Attention 性能 - 知乎
+https://zhuanlan.zhihu.com/p/638468472
+
+ring attention + flash attention：超长上下文之路 - 知乎
+https://zhuanlan.zhihu.com/p/683714620
+
+国内大厂GPU CUDA高频面试问题汇总（含部分答案） - 知乎
+https://zhuanlan.zhihu.com/p/678602674
+
+CUDA开发总结笔记 - 知乎
+https://zhuanlan.zhihu.com/p/570795544
+
+高性能计算方向面试问题总结 - 知乎
+https://zhuanlan.zhihu.com/p/634557901
+
+[LLM推理优化][3w字]🔥高频面试题汇总-大模型手撕CUDA - 知乎
+https://zhuanlan.zhihu.com/p/678903537?utm_campaign=
+
+一文读懂nsight system与cuda kernel的时间线分析与可视化 - 知乎
+https://zhuanlan.zhihu.com/p/691307737
+
+Using CUDA Warp-Level Primitives | NVIDIA Technical Blog
+https://developer.nvidia.com/blog/using-cuda-warp-level-primitives/
+
+Pytorch CUDA源码解析 - BlockReduceSum - 知乎
+https://zhuanlan.zhihu.com/p/584936904
+
+pytorch/aten/src/ATen/native/cuda/block_reduce.cuh at main · pytorch/pytorch
+https://github.com/pytorch/pytorch/blob/main/aten/src/ATen/native/cuda/block_reduce.cuh#L71
+
+深入理解Pytorch源码中的CUDA算子01-BlockReduceSum | SunGeng Blog
+https://sungenglab.github.io/post/2024-04-27pytorch%E7%AE%97%E5%AD%90%E5%88%86%E6%9E%90/
+
+Programming Tensor Cores in CUDA 9 | NVIDIA Technical Blog
+https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9/
+
+
+Megatron学习:
+
+[源码解析] 模型并行分布式训练Megatron (2) --- 整体架构 - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15868988.html
+
+[源码解析] 模型并行分布式训练 Megatron (3) ---模型并行实现 - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15871062.html
+
+Megatron-LM源码阅读（一） - 知乎
+https://zhuanlan.zhihu.com/p/405883984
+
+Megatron-LM源码阅读（二） - 知乎
+https://zhuanlan.zhihu.com/p/407094090
+
+[细读经典]Megatron论文和代码详细分析(1) - 知乎
+https://zhuanlan.zhihu.com/p/366906920
+
+NVIDIA/Megatron-LM: Ongoing research training transformer models at scale
+https://github.com/NVIDIA/Megatron-LM
+
+megatron框架-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=megatron%E6%A1%86%E6%9E%B6&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+chenzomi12/AISystem: AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+https://github.com/chenzomi12/AISystem/tree/main
+
+ZOMI酱的个人空间-ZOMI酱个人主页-哔哩哔哩视频
+https://space.bilibili.com/517221395
+
+分布式训练框架Megatron-LM代码概览 #大模型 #分布式并行 #训练_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV12J4m1K78y/?spm_id_from=333.788&vd_source=559e617af2d73e0db5172ab4e445c28e
+
+图解大模型训练之：张量模型并行(TP)，Megatron-LM - 知乎
+https://zhuanlan.zhihu.com/p/622212228
+
+图解大模型训练系列之：Megatron源码解读3，分布式混合精度训练 - 知乎
+https://zhuanlan.zhihu.com/p/662700424
+
+图解大模型系列之：Megatron源码解读1，分布式环境初始化 - 知乎
+https://zhuanlan.zhihu.com/p/629121480
+
+图解大模型训练之：张量模型并行(TP)，Megatron-LM - 知乎
+https://zhuanlan.zhihu.com/p/622212228
+
+图解大模型系列之：Megatron源码解读1，分布式环境初始化 - 知乎
+https://zhuanlan.zhihu.com/p/629121480
+
+图解大模型训练系列之：DeepSpeed-Megatron MoE并行训练（原理篇） - 知乎
+https://zhuanlan.zhihu.com/p/681154742
+
+图解大模型训练之：Megatron源码解读2，模型并行 - 知乎
+https://zhuanlan.zhihu.com/p/634377071
+
+震惊！我竟然在1080Ti上加载了一个35亿参数的模型（ZeRO, Zero Redundancy Optimizer）_wx5e46005fc4d21的技术博客_51CTO博客
+https://blog.51cto.com/u_14691718/5631471
+
+如何解决混合精度训练大模型的局限性问题-混合精度训练 tensorflow
+https://www.51cto.com/article/746136.html
+
+Distributed communication package - torch.distributed — PyTorch 2.3 documentation
+https://pytorch.org/docs/stable/distributed.html#torch.distributed.init_process_group
+
+[源码解析] PyTorch分布式(6) -------- DistributedDataParallel -- init_method & store - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossixyz/p/15553670.html
+
+[源码解析] PyTorch 流水线并行实现 (6)--并行计算 - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15370731.html
+
+罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ?page=2
+
+[源码解析] PyTorch 流水线并行实现 (1)--基础知识 - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15318574.html
+
+(21 封私信 / 80 条消息) 猛猿 - 知乎
+https://www.zhihu.com/people/lemonround
+
+大模型分布式训练并行技术（二）-数据并行 - 掘金
+https://juejin.cn/post/7254001262646738981
+
+Megatron-LM学习：Pipline Parallelism的设计与实现 - 掘金
+https://juejin.cn/post/7330916433559814184
+
+大模型分布式训练并行技术（三）-流水线并行 - 掘金
+https://juejin.cn/post/7262274383287484476
+
+旋转位置编码RoPE的直观理解 - 掘金
+https://juejin.cn/post/7264920948758773812
+
+大模型并行训练指南：通俗理解Megatron-DeepSpeed之模型并行与数据并行_请解释一下数据并行和模型并行的区别,以及它们在大规模模型训练中的应用。-CSDN博客
+https://blog.csdn.net/v_JULY_v/article/details/132462452
+
+Megatron-LM技术讲解 - 知乎
+https://zhuanlan.zhihu.com/p/702532131
+
+深入理解 Megatron-LM（4）并行设置 - 知乎
+https://zhuanlan.zhihu.com/p/650500590
+
+深入理解 Megatron-LM（5）张量并行 - 知乎
+https://zhuanlan.zhihu.com/p/650237833
+
+[源码解析] 模型并行分布式训练Megatron (5) --Pipedream Flush - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15890482.html
+
+[源码解析] 模型并行分布式训练Megatron (1) --- 论文 & 基础 - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15840803.html
+
+[源码解析] 模型并行分布式训练 Megatron (3) ---模型并行实现 - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15871062.html
+
+[源码解析] 模型并行分布式训练Megatron (2) --- 整体架构 - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15868988.html
+
+[细读经典]Megatron论文和代码详细分析(2) - 知乎
+https://zhuanlan.zhihu.com/p/388830967
+
+[细读经典]Megatron论文和代码详细分析(1) - 知乎
+https://zhuanlan.zhihu.com/p/366906920
+
+知乎方佳瑞_百度搜索
+https://www.baidu.com/s?wd=%E7%9F%A5%E4%B9%8E%E6%96%B9%E4%BD%B3%E7%91%9E&tn=84053098_3_dg&ie=utf-8
+
+混合序列并行思考：有卧龙的地方必有凤雏 - 知乎
+https://zhuanlan.zhihu.com/p/705835605
+
+FlashAttention 的速度优化原理是怎样的？ - 知乎
+https://www.zhihu.com/question/611236756
+
+https://arxiv.org/pdf/2406.06858
+https://arxiv.org/pdf/2406.06858
+
+mlsys blog
+
+分布式训练 - 多机多卡 (DDP)-CSDN博客
+https://blog.csdn.net/love1005lin/article/details/116456422
+
+浅谈后向传递的计算量大约是前向传递的两倍 - 知乎
+https://zhuanlan.zhihu.com/p/675517271?utm_source=wechat_session&utm_medium=social&s_r=0&wechatShare=1
+
+[源码分析] Facebook如何训练超大模型 --- (2) - 罗西的思考 - 博客园
+https://www.cnblogs.com/rossiXYZ/p/15819817.html
+
+Facebook的ZeRO算法原理及简单代码实验（小显卡训大模型）_zero3 模型-CSDN博客
+https://blog.csdn.net/weixin_43922901/article/details/126246309
+
+详解PyTorch FSDP数据并行(Fully Sharded Data Parallel)-CSDN博客
+https://blog.csdn.net/qinduohao333/article/details/131650137
+
+Hugging Face高效训练技术二：大模型分布式训练策略——ZeRO、FSDP_zero 大模型-CSDN博客
+https://blog.csdn.net/qq_56591814/article/details/133189752
+
+
