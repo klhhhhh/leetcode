@@ -1,0 +1,134 @@
+relational debugging
+https://www.youtube.com/watch?v=QGtrQXHbTnQ
+https://www.usenix.org/system/files/osdi23-ren.pdf
+
+Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures
+https://dl.acm.org/doi/pdf/10.1145/3627703.3650085
+https://arxiv.org/pdf/2305.15778
+
+OPT: Open Pre-trained Transformer Language Models
+https://arxiv.org/pdf/2205.01068
+
+Unicron: Economizing Self-Healing LLM Training at Scale
+https://arxiv.org/pdf/2401.00134
+
+DISTMM: Accelerating Distributed Multimodal Model Training
+https://www.usenix.org/conference/nsdi24/presentation/huang
+
+Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation
+https://www.arxiv.org/pdf/2408.03505
+
+Addressing Model and Data Heterogeneity in Multimodal Large Language Model Training
+https://arxiv.org/pdf/2408.04275
+
+Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances_百度搜索
+https://www.baidu.com/s?wd=Parcae%3A+Proactive%2C+Liveput-Optimized+DNN+Training+on+Preemptible+Instances&tn=84053098_3_dg&ie=utf-8
+
+NSDI 2024 参会评述随笔 - 知乎
+https://zhuanlan.zhihu.com/p/693671021
+
+Characterization of Large Language Model Development in the Datacenter | USENIX
+https://www.usenix.org/conference/nsdi24/presentation/hu
+
+https://dlsyscourse.org/slides/4-automatic-differentiation.pdf
+https://dlsyscourse.org/slides/4-automatic-differentiation.pdf
+
+lecture5/5_automatic_differentiation_implementation.ipynb at main · dlsyscourse/lecture5
+https://github.com/dlsyscourse/lecture5/blob/main/5_automatic_differentiation_implementation.ipynb
+
+5_automatic_differentiation_implementation.ipynb - Colab
+https://colab.research.google.com/github/dlsyscourse/lecture5/blob/main/5_automatic_differentiation_implementation.ipynb
+
+Lecture 5 - Automatic Differentiation Implementation - YouTube
+https://www.youtube.com/watch?v=cNADlHfHQHg
+
+https://arxiv.org/pdf/2406.04594
+https://arxiv.org/pdf/2406.04594
+
+阿里 C4：通信驱动加速大规模并行训练效率
+https://mp.weixin.qq.com/s/u311S6zXhqmeHXD7xExmig
+
+万卡 GPU 集群实战：探索 LLM 预训练的挑战
+https://mp.weixin.qq.com/s?__biz=Mzk0ODU3MjcxNA==&mid=2247486852&idx=1&sn=9f9dc1df99ab6aafb28e091f4532b89e&chksm=c364cac1f41343d7b10d9d234d1c7f3371d996afda01cb94d294a38cba4f1a14fe4594992aa2&scene=21#wechat_redirect
+
+万卡 GPU 集群互联：硬件配置和网络设计
+https://mp.weixin.qq.com/s?__biz=Mzk0ODU3MjcxNA==&mid=2247486775&idx=1&sn=abf7af24181cf5189e113fb161cc8d30&chksm=c364ca72f4134364f4e3fa4a971f767c2b07e6c2cae38c2a4ae28071fd330abaea68c36542c4&scene=21#wechat_redirect
+
+OSDI 24 DistServe论文
+https://mp.weixin.qq.com/s?__biz=MzA5MTQxMTM0Nw==&mid=2247483963&idx=1&sn=09fb8ceb10195c378ceca49a709b9a28&chksm=91a8b9deead4faf4a970a32d1b6acc409752af3610cf29739721298420ecd48ccfad8654029c&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=132&scene=132#wechat_redirect
+
+文章 - Open ATA
+https://open.atatech.org/?cat=985&type=1204
+
+mlsys - 搜索 - Open ATA
+https://open.atatech.org/search?q=mlsys
+
+k8s - 搜索 - Open ATA
+https://open.atatech.org/search?q=k8s
+
+精读《GPT4 Technical Report》 - Open ATA
+https://open.atatech.org/articles/11020198055?spm=ata.28742492.0.0.45543459cz1WZN
+
+LangChain: 大语言模型的新篇章 - Open ATA
+https://open.atatech.org/articles/11000267264?spm=ata.28742492.0.0.4cee6872IeGcsr
+
+论文阅读: ZeRO-Offload: Democratizing Billion-Scale Model Training - 知乎
+https://zhuanlan.zhihu.com/p/666243844
+
+https://dl.acm.org/doi/pdf/10.1145/3627703.3650085
+https://dl.acm.org/doi/pdf/10.1145/3627703.3650085
+
+https://arxiv.org/pdf/2406.13768
+https://arxiv.org/pdf/2406.13768
+
+https://arxiv.org/pdf/2208.14228
+https://arxiv.org/pdf/2208.14228
+
+Reducing Model Checkpointing Times by Over 10x with PyTorch Distributed Asynchronous Checkpointing | PyTorch
+https://pytorch.org/blog/reducing-checkpointing-times/
+
+https://mcn.cse.psu.edu/paper/heting-liu/systor23-heting.pdf
+https://mcn.cse.psu.edu/paper/heting-liu/systor23-heting.pdf
+
+NSDI24 Parcae：命运女神的智驭，驯服抢占实例，优化DNN训练，吞吐飙升10倍
+https://mp.weixin.qq.com/s/x43Pa-Ceh7hBpVxLfkAKEQ
+
+NSDI 2024 大型语言模型负载特征分析
+https://mp.weixin.qq.com/s/hAMzT5LXjpYR8H6JuMPRiQ
+
+cute 之 高效GEMM实现 - 知乎
+https://zhuanlan.zhihu.com/p/675308830
+
+python 条件表达式_百度搜索
+https://www.baidu.com/s?wd=python+%E6%9D%A1%E4%BB%B6%E8%A1%A8%E8%BE%BE%E5%BC%8F&tn=84053098_3_dg&ie=utf-8
+
+全息-测试账号
+https://quanxi-account.aliyun-inc.com/#/MyAccountManage
+
+阿里云-计算，为了无法计算的价值
+https://www.aliyun.com/?accounttraceid=4a6b7f4639b04ec2979be2a8e88bb391rgyx
+
+(22 封私信 / 80 条消息) ZHANG Mingxing - 知乎
+https://www.zhihu.com/people/james0zan
+
+Project xDiT: 打造DiT并行推理的vLLM - 知乎
+https://zhuanlan.zhihu.com/p/712865032
+
+https://arxiv.org/pdf/2405.14430
+https://arxiv.org/pdf/2405.14430
+
+https://arxiv.org/pdf/2405.07719
+https://arxiv.org/pdf/2405.07719
+
+序列并行做大模型训练，你需要知道的六件事 - 知乎
+https://zhuanlan.zhihu.com/p/698031151
+
+大模型训练之序列并行双雄：DeepSpeed Ulysses & Ring-Attention - 知乎
+https://zhuanlan.zhihu.com/p/689067888
+
+知乎 - 安全中心
+https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2309.14509
+
+DiT并行推理引擎-xDiT的设计哲学 - 知乎
+https://zhuanlan.zhihu.com/p/713199948
+
